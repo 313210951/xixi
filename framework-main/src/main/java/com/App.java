@@ -8,6 +8,7 @@ public class App
 {
     public static void main( String[] args )
     {
+    	// 到此一游
     	SpringApplication.run(App.class);
     }
 }
