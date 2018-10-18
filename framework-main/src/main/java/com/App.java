@@ -8,7 +8,7 @@ public class App
 {
     public static void main( String[] args )
     {
-    	//zhou test ；；；；11111111111
+    	//zhou test ；；；；11111111
     	SpringApplication.run(App.class);
     }
 }
